@@ -22,3 +22,6 @@ Note that no macOS setup script is currently provided; you can duplicate the Lin
 ## License
 - UNLICENSE for this repository (see `UNLICENSE.txt` for more details)
 - Premake is licensed under BSD 3-Clause (see included LICENSE.txt file for more details)
+
+## TODO:
+- Adapt to Red Panda IDE-based application development pipeline
